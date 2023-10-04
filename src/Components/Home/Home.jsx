@@ -6,7 +6,7 @@ import { BiPlay } from "react-icons/bi"
 import { AiOutlinePlus } from "react-icons/ai"
 
 const apiKey = "9bfa7cc974bc539d4a0e47bce3e42047";
-const url = "https://www.themoviedb.org/";
+const url = "https://api.themoviedb.org/3";
 const imgUrl = "https://image.tmdb.org/t/p/original";
 const upcoming = "upcoming";
 const nowPlaying = "now_playing";
