@@ -31,6 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+### Screenshot
+![Screenshot (4)](https://github.com/Sidharthkrsharma/Netflix-Clone/assets/95740490/d1756d63-b3d4-40a9-ae96-085b1fde7a61)
+
+
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
